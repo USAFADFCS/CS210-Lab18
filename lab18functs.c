@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include <string.h>
 
-#include "lab19functs.h"
+#include "lab18functs.h"
 
-/** lab19functs.c
+/** lab18functs.c
 * ===========================================================
 * Name: CS210
 * Section:
-* Project: Lab 19
+* Project: Lab 18
 * Purpose: 
 * ===========================================================
 */
