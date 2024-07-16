@@ -1,13 +1,15 @@
-#include <stdio.h>
-#include <string.h>
-
-#include "lab19functs.h"
-
-/** lab19functs.c
+/** lab18-03.c
 * ===========================================================
 * Name: CS210
 * Section:
-* Project: Lab 19
+* Project: Lab 18
 * Purpose: 
 * ===========================================================
 */
+
+
+int main() {
+
+    return 0;
+
+}
